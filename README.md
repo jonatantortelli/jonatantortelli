@@ -1,18 +1,20 @@
-<h1 align="center">Hi, i'm Jonatan :space_invader:</h1>
+<h1 align="center">Olá, eu sou o Jonatan :space_invader:</h1>
 
 <br>
 <br>
 
-Atualmente trabalhando em uma metalúrgica à 10 anos :factory:. Fazendo transição de carreira para desenvolvedor. :stars:
+Fazendo transição de carreira para desenvolvedor. :stars:
 
 <br>
 
 <h2>Linguagens e ferramentas:</h2>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css-icon" width=30px/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5-icon" width=30px/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=30px/>
-
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css-icon" width=30px/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="html5-icon" width=30px/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width=30px/></a>
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatantortelli&layout=compact)
 <br>
 <br>
 <h3>Conecte-se comigo!</h3>
